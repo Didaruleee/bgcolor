@@ -33,7 +33,7 @@ const ColorChanger = () => {
 
   return (
     <div style={{ backgroundColor, color: textColor, minHeight: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-      <h1>Hello, Next.js!</h1>
+      <h1>Hello, Alan!</h1>
     </div>
   );
 };
